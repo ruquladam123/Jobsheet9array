@@ -8,3 +8,4 @@
 ![Alt text](https://github.com/ruquladam123/Jobsheet9array/blob/master/array6.PNG)
 ![Alt text](https://github.com/ruquladam123/Jobsheet9array/blob/master/array7.PNG)
 ![Alt text](https://github.com/ruquladam123/Jobsheet9array/blob/master/chalenge1pembaruan.PNG)
+![Alt text](https://github.com/ruquladam123/Jobsheet9array/blob/master/chalengearray2.PNG)
